@@ -13,6 +13,10 @@
 - Follow the coding standards in [docs/engineering/coding-standards.md](docs/engineering/coding-standards.md).
 - Agents implementing code must follow both documents.
 
+## Definition of Done
+
+- Follow the Definition of Done documented in [docs/engineering/definition-of-done.md](docs/engineering/definition-of-done.md).
+
 ## Technology baseline
 
 - Python 3.13+ with FastAPI.
