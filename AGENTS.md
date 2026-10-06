@@ -17,6 +17,10 @@
 
 - Follow the Definition of Done documented in [docs/engineering/definition-of-done.md](docs/engineering/definition-of-done.md).
 
+## Development workflow
+
+- Follow the Development Workflow documented in [docs/engineering/development-workflow.md](docs/engineering/development-workflow.md).
+
 ## Technology baseline
 
 - Python 3.13+ with FastAPI.
